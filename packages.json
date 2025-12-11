@@ -2,5 +2,10 @@
   {
         "package": "randomwalk",
         "url": "https://github.com/JohnGavin/randomwalk"
+  },
+  {
+        "package": "rArimaOption",
+        "url": "//github.com/JohnGavin/rArimaOption"
   }
+
 ]
