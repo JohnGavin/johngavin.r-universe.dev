@@ -4,6 +4,10 @@
         "url": "https://github.com/JohnGavin/randomwalk"
   },
   {
+        "package": "etfdata",
+        "url": "https://github.com/JohnGavin/etf-data/etfdata"
+  },
+  {
         "package": "rArimaOption",
         "url": "https://github.com/JohnGavin/rArimaOption"
   }
