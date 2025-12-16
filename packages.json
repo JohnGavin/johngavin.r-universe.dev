@@ -3,6 +3,7 @@
         "package": "randomwalk",
         "url": "https://github.com/JohnGavin/randomwalk"
   },
+  
   {
         "package": "etfdata",
         "url": "https://github.com/JohnGavin/etf-data/tree/main/etfdata"
