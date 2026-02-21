@@ -1,5 +1,9 @@
 [
   {
+        "package": "millsratio",
+        "url": "https://github.com/JohnGavin/millsratio"
+  },
+  {
         "package": "randomwalk",
         "url": "https://github.com/JohnGavin/randomwalk"
   },
