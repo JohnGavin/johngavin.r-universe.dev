@@ -11,5 +11,9 @@
         "package": "etfdata",
         "url": "https://github.com/JohnGavin/etf-data",
         "subdir" :"etfdata"
+  },
+  {
+        "package": "coMMpass",
+        "url": "https://github.com/JohnGavin/coMMpass-analysis"
   }
 ]
