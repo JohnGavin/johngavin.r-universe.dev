@@ -1,5 +1,9 @@
 [
   {
+        "package": "irishbuoys",
+        "url": "https://github.com/JohnGavin/irishbuoys"
+  },
+  {
         "package": "millsratio",
         "url": "https://github.com/JohnGavin/millsratio"
   },
