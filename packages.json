@@ -4,6 +4,10 @@
         "url": "https://github.com/JohnGavin/irishbuoys"
   },
   {
+        "package": "micromort",
+        "url": "https://github.com/JohnGavin/micromort"
+  },
+  {
         "package": "millsratio",
         "url": "https://github.com/JohnGavin/millsratio"
   },
